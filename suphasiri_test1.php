@@ -4,7 +4,7 @@
     </head>
     <body>
     <section style="padding:50px;">
-        <form action="index.php" method="POST">
+        <form action="suphasiri_test1.php" method="POST">
             <div class="row" style="padding:5px;">
                 <div class="col-md-1">
                     <span>List</span>
